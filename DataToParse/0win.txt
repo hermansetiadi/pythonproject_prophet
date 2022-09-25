@@ -1,0 +1,250 @@
+SRAJ
+Mayapada Hospital
+Rp135,00
++Rp35,00
+35,00%
+YPAS
+PT Yanaprima Hastapersada Tbk
+Rp985,00
++Rp195,00
+24,68%
+INRU
+Toba Pulp Lestari
+Rp835,00
++Rp165,00
+24,63%
+WMPP
+PT Widodo Makmur Perkasa Tbk
+Rp164,00
++Rp24,00
+17,14%
+WINS
+PT Wintermar Offshore Marine Tbk
+Rp322,00
++Rp44,00
+15,83%
+INDX
+Tanah Laut
+Rp268,00
++Rp34,00
+14,53%
+KJEN
+PT Krida Jaringan Nusantara Tbk
+Rp184,00
++Rp23,00
+14,29%
+RUIS
+Radiant Utama Interinsco Tbk.
+Rp270,00
++Rp28,00
+11,57%
+BBRM
+PT Pelayaran Nasional Bina Buana Raya Tbk
+Rp55,00
++Rp5,00
+10,00%
+PNIN
+Paninvest
+Rp1.495,00
++Rp135,00
+9,93%
+SMKM
+PT Sumber Mas Konstruksi Tbk
+Rp272,00
++Rp24,00
+9,68%
+ABBA
+Mahaka Media
+Rp232,00
++Rp20,00
+9,43%
+BEEF
+PT Estika Tata Tiara Tbk
+Rp61,00
++Rp5,00
+8,93%
+LEAD
+PT Logindo Samudramakmur Tbk
+Rp100,00
++Rp8,00
+8,70%
+PTIS
+PT Indo Straits Tbk
+Rp250,00
++Rp20,00
+8,70%
+SOCI
+PT Soechi Lines Tbk
+Rp214,00
++Rp17,00
+8,63%
+ELPI
+PT Pelayaran Nasional Ekalya Purnamasari Tbk
+Rp240,00
++Rp18,00
+8,11%
+PGLI
+PT Pembangunan Graha Lestari Indah Tbk
+Rp348,00
++Rp26,00
+8,07%
+WEHA
+White Horse Group
+Rp122,00
++Rp9,00
+7,96%
+MEDS
+PT Hetzer Medical Indonesia Tbk
+Rp310,00
++Rp22,00
+7,64%
+PNBS
+Panin Dubai Syariah Bank
+Rp86,00
++Rp6,00
+7,50%
+ETWA
+Eterindo Wahanatama
+Rp190,00
++Rp13,00
+7,34%
+HDIT
+PT Hensel Davest Indonesia Tbk
+Rp117,00
++Rp8,00
+7,34%
+ASLC
+PT Autopedia Sukses Lestari Tbk
+Rp173,00
++Rp11,00
+6,79%
+NFCX
+PT NFC Indonesia Tbk
+Rp12.275,00
++Rp725,00
+6,28%
+NICK
+PT Charnic Capital Tbk
+Rp414,00
++Rp24,00
+6,15%
+PSGO
+PT Palma Serasih Tbk
+Rp173,00
++Rp10,00
+6,13%
+JAYA
+PT Armada berjaya trans Tbk
+Rp123,00
++Rp7,00
+6,03%
+DIVA
+PT Distribusi Voucher Nusantara Tbk
+Rp995,00
++Rp55,00
+5,85%
+ENZO
+PT Morenzo Abadi Perkasa Tbk
+Rp57,00
++Rp3,00
+5,56%
+PMMP
+PT Panca Mitra Multiperdana Tbk
+Rp420,00
++Rp22,00
+5,53%
+OILS
+PT Indo Oil Perkasa Tbk
+Rp230,00
++Rp12,00
+5,50%
+EAST
+PT Eastparc Hotel Tbk
+Rp116,00
++Rp6,00
+5,45%
+CFIN
+Clipan Finance Indonesia
+Rp322,00
++Rp16,00
+5,23%
+INDY
+PT Indika Energy Tbk
+Rp3.270,00
++Rp160,00
+5,14%
+PNBN
+PaninBank
+Rp2.270,00
++Rp110,00
+5,09%
+SHIP
+PT Sillo Maritime Perdana Tbk
+Rp1.050,00
++Rp50,00
+5,00%
+PRIM
+PT Royal Prima Tbk
+Rp212,00
++Rp10,00
+4,95%
+HATM
+PT Habco Trans Maritima Tbk
+Rp340,00
++Rp16,00
+4,94%
+IPPE
+PT Indo Pureco Pratama Tbk
+Rp175,00
++Rp8,00
+4,79%
+GTSI
+PT GTS Internasional Tbk
+Rp66,00
++Rp3,00
+4,76%
+GPSO
+PT Geoprima Solusi Tbk
+Rp135,00
++Rp6,00
+4,65%
+ENRG
+Energi Mega Persada
+Rp278,00
++Rp12,00
+4,51%
+PANR
+PT Panorama Sentrawisata Tbk
+Rp280,00
++Rp12,00
+4,48%
+PNLF
+Panin Financial
+Rp505,00
++Rp21,00
+4,34%
+SKRN
+PT Superkrane Mitra Utama Tbk
+Rp1.370,00
++Rp55,00
+4,18%
+MFMI
+PT Multifiling Mitra Indonesia Tbk
+Rp750,00
++Rp30,00
+4,17%
+DYAN
+PT Dyandra Media International Tbk
+Rp80,00
++Rp3,00
+3,90%
+BBHI
+Bank Allo
+Rp2.460,00
++Rp90,00
+3,80%
+PANS
+Panin Sekuritas
+Rp1.860,00
++Rp65,00
+3,62%

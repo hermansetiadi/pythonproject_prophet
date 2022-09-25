@@ -1,0 +1,110 @@
+"F:\Portable Python-3.7.6 x64\App\Python\python.exe" F:/Dropbox/00_ingenico/00ProjectXX/pythonProject_prophet/main.py
+Hi, PyCharm
+---- MOST ACTIVE ----
+['BUMI', '6,37%', 'BIPI', '2,53%', 'PNBS', '7,50%', 'CARS', '6,19%', 'FREN', '1,20%', 'HDIT', '7,34%', 'WMPP', '17,14%', 'LEAD', '8,70%', 'AMMS', '9,82%', 'GPSO', '4,65%', 'BRMS', '2,73%', 'ZINC', '0,00%', 'GOTO', '0,00%', 'CARE', '2,57%', 'DEWA', '6,15%', 'PSKT', '0,95%', 'BULL', '0,00%', 'NATO', '0,00%', 'KJEN', '14,29%', 'PGAS', '3,00%', 'ADMR', '2,11%', 'BUKA', '1,41%', 'JKON', '3,92%', 'CASA', '0,00%', 'MEDC', '0,51%', 'PNLF', '4,34%', 'WIFI', '0,87%', 'INDO', '0,64%', 'HRUM', '1,03%', 'TOWR', '1,23%', 'BBRI', '1,75%', 'AMRT', '3,46%', 'BHIT', '1,43%', 'SOCI', '8,63%', 'DEWI', '5,83%', 'ENRG', '4,51%', 'RAFI', '0,00%', 'BRPT', '1,18%', 'ENZO', '5,56%', 'COAL', '6,25%', 'BOGA', '0,78%', 'SBMA', '5,11%', 'BHAT', '0,00%', 'IATA', '6,12%', 'BKSL', '0,00%', 'TLKM', '1,13%', 'CBMF', '1,92%', 'CPRO', '1,49%', 'WEHA', '7,96%', 'WINS', '15,83%']
+---- WINNER ----
+WMPP 17,14%
+WINS 15,83%
+KJEN 14,29%
+LEAD 8,70%
+SOCI 8,63%
+WEHA 7,96%
+PNBS 7,50%
+HDIT 7,34%
+ENZO 5,56%
+GPSO 4,65%	3	8
+ENRG 4,51%	8	2	
+PNLF 4,34%	5	8
+---- LOSER ----
+AMMS 9,82%
+BUMI 6,37%
+COAL 6,25%
+CARS 6,19%
+DEWA 6,15%
+IATA 6,12%
+DEWI 5,83%
+SBMA 5,11%
+JKON 3,92%	8	8
+PGAS 3,00%	2	8
+BRMS 2,73%	2	2
+---- WINNER but NOT LISTED ----
+SRAJ 35,00%
+YPAS 24,68%
+INRU 24,63%
+INDX 14,53%
+RUIS 11,57%
+BBRM 10,00%
+PNIN 9,93%
+SMKM 9,68%
+ABBA 9,43%
+BEEF 8,93%
+PTIS 8,70%
+ELPI 8,11%
+PGLI 8,07%
+MEDS 7,64%
+ETWA 7,34%
+ASLC 6,79%
+NFCX 6,28%
+NICK 6,15%
+PSGO 6,13%
+JAYA 6,03%
+DIVA 5,85%
+PMMP 5,53%
+OILS 5,50%
+EAST 5,45%
+CFIN 5,23%
+INDY 5,14%
+PNBN 5,09%
+SHIP 5,00%
+PRIM 4,95%
+HATM 4,94%
+IPPE 4,79%
+GTSI 4,76%
+PANR 4,48%
+SKRN 4,18%
+MFMI 4,17%
+DYAN 3,90%
+BBHI 3,80%
+PANS 3,62%
+---- LOSER but NOT LISTED ----
+SMDM 6,94%
+FPNI 6,90%
+HOMI 6,79%
+SATU 6,58%
+DWGL 6,48%
+VRNA 6,47%
+ARII 6,40%
+MYTX 5,88%
+MREI 5,80%
+TOOL 5,71%
+INCF 5,63%
+HELI 5,07%
+PCAR 4,76%
+BSSR 4,64%
+UNSP 4,48%
+DART 4,46%
+MBAP 4,39%
+SMRA 4,38%
+FORU 4,23%
+KEEN 4,02%
+POLL 4,00%
+POLY 3,95%
+GLOB 3,91%
+AKRA 3,78%
+PWON 3,76%
+DMMX 3,64%
+MAPI 3,57%
+TMAS 3,57%
+BAPA 3,52%
+UNTR 3,13%
+IDEA 3,08%
+ABMM 2,92%
+OBMD 2,86%
+HOPE 2,82%
+BELL 2,81%
+ARTO 2,69%
+GLVA 2,65%
+NETV 2,59%
+BSDE 2,58%
+
+Process finished with exit code 0

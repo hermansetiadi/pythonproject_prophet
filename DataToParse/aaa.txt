@@ -1,0 +1,250 @@
+BUMI
+PT Bumi Resources Tbk
+Rp147,00
+-Rp10,00
+6,37%
+BIPI
+PT Astrindo Nusantara Infrastruktur Tbk
+Rp154,00
+-Rp4,00
+2,53%
+PNBS
+Panin Dubai Syariah Bank
+Rp86,00
++Rp6,00
+7,50%
+CARS
+PT Industri Dan Perdagangan Bintraco Dharma Tbk
+Rp106,00
+-Rp7,00
+6,19%
+FREN
+Smartfren Telecom
+Rp84,00
++Rp1,00
+1,20%
+HDIT
+PT Hensel Davest Indonesia Tbk
+Rp117,00
++Rp8,00
+7,34%
+WMPP
+PT Widodo Makmur Perkasa Tbk
+Rp164,00
++Rp24,00
+17,14%
+LEAD
+PT Logindo Samudramakmur Tbk
+Rp100,00
++Rp8,00
+8,70%
+AMMS
+PT Agung Menjangan Mas Tbk
+Rp147,00
+-Rp16,00
+9,82%
+GPSO
+PT Geoprima Solusi Tbk
+Rp135,00
++Rp6,00
+4,65%
+BRMS
+PT Bumi Resources Minerals Tbk
+Rp178,00
+-Rp5,00
+2,73%
+ZINC
+PT Kapuas Prima Coal Tbk
+Rp71,00
+Rp0,00
+0,00%
+GOTO
+GoTo Group
+Rp264,00
+Rp0,00
+0,00%
+CARE
+PT Metro Healthcare Indonesia Tbk
+Rp492,00
+-Rp13,00
+2,57%
+DEWA
+Darma Henwa
+Rp61,00
+-Rp4,00
+6,15%
+PSKT
+Red Planet Indonesia
+Rp104,00
+-Rp1,00
+0,95%
+BULL
+PT Buana Listya Tama Tbk
+Rp155,00
+Rp0,00
+0,00%
+NATO
+PT Surya Permata Andalan Tbk
+Rp510,00
+Rp0,00
+0,00%
+KJEN
+PT Krida Jaringan Nusantara Tbk
+Rp184,00
++Rp23,00
+14,29%
+PGAS
+Pertamina Gas Negara
+Rp1.780,00
+-Rp55,00
+3,00%
+ADMR
+Adaro Minerals
+Rp1.855,00
+-Rp40,00
+2,11%
+BUKA
+PT Bukalapak.com Tbk
+Rp280,00
+-Rp4,00
+1,41%
+JKON
+Jaya Konstruksi
+Rp196,00
+-Rp8,00
+3,92%
+CASA
+Capital Financial Indonesia
+Rp780,00
+Rp0,00
+0,00%
+MEDC
+Medco Energi Internasional
+Rp995,00
++Rp5,00
+0,51%
+PNLF
+Panin Financial
+Rp505,00
++Rp21,00
+4,34%
+WIFI
+PT Solusi Sinergi Digital Tbk
+Rp232,00
++Rp2,00
+0,87%
+INDO
+PT Royalindo Investa Wijaya Tbk
+Rp155,00
+-Rp1,00
+0,64%
+HRUM
+Harum Energy
+Rp1.920,00
+-Rp20,00
+1,03%
+TOWR
+Sarana Menara Nusantara
+Rp1.200,00
+-Rp15,00
+1,23%
+BBRI
+Bank Rakyat Indonesia
+Rp4.480,00
+-Rp80,00
+1,75%
+AMRT
+Alfamart
+Rp2.390,00
++Rp80,00
+3,46%
+BHIT
+MNC Asia Holding
+Rp69,00
+-Rp1,00
+1,43%
+SOCI
+PT Soechi Lines Tbk
+Rp214,00
++Rp17,00
+8,63%
+DEWI
+PT Dewi Shri Farmindo Tbk
+Rp226,00
+-Rp14,00
+5,83%
+ENRG
+Energi Mega Persada
+Rp278,00
++Rp12,00
+4,51%
+RAFI
+Sari Kreasi Boga Tbk PT
+Rp214,00
+Rp0,00
+0,00%
+BRPT
+PT Barito Pacific Tbk
+Rp835,00
+-Rp10,00
+1,18%
+ENZO
+PT Morenzo Abadi Perkasa Tbk
+Rp57,00
++Rp3,00
+5,56%
+COAL
+PT Black Diamond Resources Tbk
+Rp525,00
+-Rp35,00
+6,25%
+BOGA
+PT Bintang Oto Global Tbk
+Rp1.290,00
++Rp10,00
+0,78%
+SBMA
+PT Surya Biru Murni Acetylene Tbk
+Rp260,00
+-Rp14,00
+5,11%
+BHAT
+Bhakti Multi Artha
+Rp870,00
+Rp0,00
+0,00%
+IATA
+Indonesia Air Transport
+Rp138,00
+-Rp9,00
+6,12%
+BKSL
+PT Sentul City Tbk
+Rp56,00
+Rp0,00
+0,00%
+TLKM
+Telkom Indonesia
+Rp4.380,00
+-Rp50,00
+1,13%
+CBMF
+PT Cahaya Bintang Medan Tbk
+Rp51,00
+-Rp1,00
+1,92%
+CPRO
+Central Proteina Prima
+Rp66,00
+-Rp1,00
+1,49%
+WEHA
+White Horse Group
+Rp122,00
++Rp9,00
+7,96%
+WINS
+PT Wintermar Offshore Marine Tbk
+Rp322,00
++Rp44,00
+15,83%
